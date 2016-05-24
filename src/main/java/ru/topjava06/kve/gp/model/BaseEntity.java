@@ -1,6 +1,7 @@
 package ru.topjava06.kve.gp.model;
 
 public class BaseEntity {
+
     protected Integer id;
 
     public Integer getId() {
